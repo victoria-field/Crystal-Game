@@ -1,0 +1,77 @@
+.container{
+	background-image: url(../images/background.jpg);
+	height: 100%;
+	width: 100%;
+}
+
+
+#heading{
+	background-color: orange;
+	height: 130px;
+	width: 350px;
+	margin-top: 50px;
+}
+
+.crystal{
+	height: 30px;
+	width:30px;
+	display: inline-block;
+	margin-left: 30px;
+}
+#instruction{
+	height: 230px;
+	width: 230px;
+	font-size: 50px;
+	font-family: Verdana;
+}
+
+#target{
+ 	height: 400px;
+ 	width: 200px;
+ 	background-color: green;
+ 	font-size: 50px;
+ 	display: inline-block;
+
+
+
+}
+
+
+.boxForWinsLose{
+	height: 400px;
+	width: 200px;
+	display: inline-block;
+	background-color: purple;
+	margin-left: 50px;
+	margin-top: 40px;
+	font-size: 25px
+}
+
+#value1{
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+
+}
+
+#value2{
+	height: 100px;
+	width: 100px;
+	display: inline-block;
+}
+
+/*#currentScore{
+	height: 100px;
+	width: 50%;
+	background-color: pink;
+	display: inline-block;
+
+}*/
+
+#currentScoreValue{
+	height: 200px;
+	width: 50%;
+	background-color: pink;
+	font-size: 50px;
+	display: inline-block;
+}
